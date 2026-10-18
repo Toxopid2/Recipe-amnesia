@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": { "item": "recipeamnesia:memoryum_block" },
+  "result": { "id": "recipeamnesia:true_memoryum_shard" },
+  "experience": 1.0,
+  "cookingtime": 200
+}

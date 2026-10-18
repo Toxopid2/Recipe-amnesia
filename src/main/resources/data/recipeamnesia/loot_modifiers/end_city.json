@@ -1,0 +1,12 @@
+{
+  "type": "recipeamnesia:add_memoryum",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:chests/end_city_treasure"
+    }
+  ],
+  "min": 2,
+  "max": 7,
+  "chance": 1.0
+}

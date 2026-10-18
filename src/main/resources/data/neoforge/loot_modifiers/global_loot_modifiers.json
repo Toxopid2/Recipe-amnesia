@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "entries": [
+    "recipeamnesia:end_city",
+    "recipeamnesia:temples",
+    "recipeamnesia:nether_fortress",
+    "recipeamnesia:bastion_normal",
+    "recipeamnesia:bastion_treasure",
+    "recipeamnesia:stronghold"
+  ]
+}

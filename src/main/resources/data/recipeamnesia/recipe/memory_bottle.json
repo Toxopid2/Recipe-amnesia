@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "MMM",
+    "MBM",
+    "MMM"
+  ],
+  "key": {
+    "M": { "item": "recipeamnesia:memoryum_block" },
+    "B": { "item": "minecraft:glass_bottle" }
+  },
+  "result": { "id": "recipeamnesia:memory_bottle", "count": 1 }
+}

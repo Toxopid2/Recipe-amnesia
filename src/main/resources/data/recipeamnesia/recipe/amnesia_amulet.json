@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NNN",
+    "NSN",
+    "NFN"
+  ],
+  "key": {
+    "N": { "tag": "c:nuggets" },
+    "S": { "item": "recipeamnesia:true_memoryum_shard" },
+    "F": { "item": "recipeamnesia:forgetting_bottle" }
+  },
+  "result": { "id": "recipeamnesia:amnesia_amulet", "count": 1 }
+}
