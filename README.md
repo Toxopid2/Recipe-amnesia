@@ -59,4 +59,4 @@ NOTE: the old `excludedNamespaces` / `excludedRecipes` options were replaced by 
 * JEI/EMI re-index recipes after each shuffle; on big modpacks this can hitch for a moment.
 
 ## License
-MIT, Copyright (c) 2026 tohioze.
+MIT, Copyright (c) 2026 Toxopid2.
